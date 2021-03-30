@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="Aula07Jspf" default="default" basedir=".">
-    <description>Builds, tests, and runs the project Aula07Jspf.</description>
+<project name="Tp07JspfTabelaPrice" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Tp07JspfTabelaPrice.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 

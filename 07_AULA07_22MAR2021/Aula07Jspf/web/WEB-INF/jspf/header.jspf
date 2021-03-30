@@ -1,7 +1,0 @@
-<%-- any content can be specified here e.g.: --%>
-<%@ page pageEncoding="UTF-8" %>
-<b>JSPF-App</b>
-<a href="index.jsp">ÍNICIO</a> 
-<a href="tabela-price.jsp">PÁGINA 1</a> |
-<a href="calcular-valor-financiado.jsp">PÁGINA 2</a> |
-<a href="page3.jsp">PÁGINA 3</a> |
